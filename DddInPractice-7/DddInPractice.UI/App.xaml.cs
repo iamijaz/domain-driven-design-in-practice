@@ -1,6 +1,6 @@
 ﻿using DddInPractice.Logic.Utils;
 
-namespace DddInPractice.Logic.UI
+namespace DddInPractice.UI
 {
     public partial class App
     {
